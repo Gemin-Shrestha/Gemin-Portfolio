@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/</loc>
-    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/infographics/</loc>
-    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
-  </url><url>
     <loc>//gemin-shrestha.github.io/Gemin-Portfolio/blogs/</loc>
+    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
     <loc>//gemin-shrestha.github.io/Gemin-Portfolio/blogs/how-to-master-streamlit-for-data-science/</loc>
