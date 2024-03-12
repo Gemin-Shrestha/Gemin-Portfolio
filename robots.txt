@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: //gemin-shrestha.github.io/Gemin-Portfolio/sitemap.xml
+Sitemap: https://geminshrestha.com.np/sitemap.xml

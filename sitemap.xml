@@ -2,39 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/blogs/</loc>
-    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
+    <loc>https://geminshrestha.com.np/categories/</loc>
   </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/</loc>
-    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
+    <loc>https://geminshrestha.com.np/</loc>
   </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/blogs/how-to-master-streamlit-for-data-science/</loc>
-    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/projects/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/projects/reproducible-computational-drug-discovery/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/projects/erpred/</loc>
-    <lastmod>2022-04-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/projects/acetylcholinesterase/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/blogs/what-is-bioinformatics/</loc>
-    <lastmod>2022-04-03T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/page/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>//gemin-shrestha.github.io/Gemin-Portfolio/categories/</loc>
+    <loc>https://geminshrestha.com.np/tags/</loc>
   </url>
 </urlset>
